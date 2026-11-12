@@ -1,4 +1,4 @@
-# Rejinth R — Portfolio
+# Rejinth R — Business Modal
 
 Single-page profile site. Plain HTML, CSS and JS — no build step.
 
