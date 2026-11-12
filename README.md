@@ -1,9 +1,8 @@
-# Rejinth R — Portfolio
+# Rejinth R — Business Model
 
 A single-page, static portfolio site with a light theme. Plain HTML, CSS and JavaScript: no framework, no build step, no server.
 
 ```
-portfolio/
 ├── index.html                 All content
 ├── css/style.css              Design tokens and all styles
 ├── js/script.js               Mobile menu, nav highlight, hero dot animation, copyright year
